@@ -1,6 +1,6 @@
-**你好，我是 Jeanz 👋**  
-一名来自中国的软件工程师、独立开发者与开源探索者，现居 **长沙**。<br>
-我始终相信 **“Open minds build better AI✨”**。对我而言，编程不仅是构建系统的手艺，更是一种让生活变得更轻盈、更有趣的创造方式。
+**你好，我是 Jeanz 👋**，一名来自中国的软件工程师、独立开发者与开源探索者。<br>
+我始终相信 **“Open minds build better Product✨”**。<br>
+对我而言，编程不仅是构建系统的手艺，更是一种让生活变得更轻盈、更有趣的创造方式。
 
 ---
 
@@ -17,4 +17,4 @@
 > **欢迎交流与连接**  
 > 无论你是想探讨 **个人 Agent 架构、自托管项目、全栈工程实践**，还是单纯想交个朋友，都欢迎浏览 [我的开源仓库](https://github.com/jeanzxiang-xjz?tab=repositories) 或直接写信给我！
 
-📫 **找到我**：[X (@JeanzXiang)](https://x.com/JeanzXiang) · [小红书](https://xhslink.cn/o/9VuBfrJKua1) · [jeanzxiang@gmail.com](mailto:jeanzxiang@gmail.com)
+📫 **与我交流**：[X (@JeanzXiang)](https://x.com/JeanzXiang) · [小红书](https://xhslink.cn/o/9VuBfrJKua1) · [jeanzxiang@gmail.com](mailto:jeanzxiang@gmail.com)
