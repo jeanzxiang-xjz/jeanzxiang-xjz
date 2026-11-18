@@ -17,4 +17,4 @@
 > **欢迎交流与连接**  
 > 无论你是想探讨 **个人 Agent 架构、自托管项目、全栈工程实践**，还是单纯想交个朋友，都欢迎浏览 [我的开源仓库](https://github.com/jeanzxiang-xjz?tab=repositories) 或直接写信给我！
 
-📫 **与我交流**：[X (@JeanzXiang)](https://x.com/JeanzXiang) · [小红书](https://www.xiaohongshu.com/user/profile/61cebae5000000001000ac6f?tab=fav&subTab=note)· [jeanzxiang@gmail.com](mailto:jeanzxiang@gmail.com)
+📫 **与我交流**：[X (@JeanzXiang)](https://x.com/JeanzXiang) · [小红书](https://www.xiaohongshu.com/user/profile/61cebae5000000001000ac6f?tab=fav&subTab=note) · [jeanzxiang@gmail.com](mailto:jeanzxiang@gmail.com)
